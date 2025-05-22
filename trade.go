@@ -5,7 +5,6 @@ import (
 	"github.com/cctip/bybit.go.api/handlers"
 	"github.com/cctip/bybit.go.api/models"
 	"net/http"
-	"time"
 )
 
 type TradeClient struct {
