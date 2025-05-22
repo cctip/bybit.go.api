@@ -1,4 +1,4 @@
-module github.com/cctip/bybit.go.api1
+module github.com/cctip/bybit.go.api
 
 go 1.21
 
